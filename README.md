@@ -1,6 +1,7 @@
 # Ejercicio-Linux-DNS
 
 cd /etc/bind/
+
 sudo su
 
 nano /etc/network/interfaces
